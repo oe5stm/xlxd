@@ -59,7 +59,7 @@ int CXlxClient::GetCodec(void) const
         case XLX_PROTOCOL_REVISION_0:
         case XLX_PROTOCOL_REVISION_1:
         default:
-            codec = CODEC_AMBEPLUS;
+            codec = CODEC_NONE;
             break;
         case XLX_PROTOCOL_REVISION_2:
             codec = CODEC_NONE;

@@ -60,7 +60,7 @@
 
 // reflector ---------------------------------------------------
 
-#define NB_OF_MODULES                 10
+#define NB_OF_MODULES                 26
 //#define NB_OF_MODULES                   NB_MODULES_MAX
 
 // protocols ---------------------------------------------------
@@ -134,7 +134,7 @@
 
 // xml & json reporting -----------------------------------------
 
-#define LASTHEARD_USERS_MAX_SIZE        100
+#define LASTHEARD_USERS_MAX_SIZE        230
 #define XML_UPDATE_PERIOD               10                              // in seconds
 #define JSON_UPDATE_PERIOD              10                              // in seconds
 #define JSON_PORT                       10001
